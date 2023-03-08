@@ -1,14 +1,14 @@
 {
-  "name": "anmol",
-  "version": "4.0.0",
-  "description": "A personal card for Anmol Pratap Singh (@anmol098)",
+  "name": "brihan",
+  "version": "1.0.0",
+  "description": "A personal card for Brian Han",
   "main": "card.js",
   "bin": {
-    "anmol": "./card.js"
+    "brihan": "./card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anmol098/npx_card.git"
+    "url": "git+https://github.com/BriHan-Tech/npx_card.git"
   },
   "scripts": {
     "test": "node card.js",
@@ -32,6 +32,6 @@
     "npx card",
     "business card"
   ],
-  "author": "Anmol Singh <hi@anmolsingh.me> (https://anmolsingh.me/)",
+  "author": "Brian Han <brihan.work@gmail.com> (https://brianhan.tech/)",
   "license": "ISC"
 }
